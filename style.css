@@ -6,3 +6,22 @@
     float: right;
 }
 
+header{
+    margin: 1%;
+    border:2px solid black;
+    padding: 5% 5% 5% 5%;
+    
+}
+img{
+    width
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    margin: 1%;
+    border: 1px solid red; 
+}
+
+footer a:first-child{
+    ;
+}
